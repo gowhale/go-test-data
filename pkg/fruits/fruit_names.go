@@ -1,5 +1,5 @@
 // Package fruit contains fruit names for use in testing
-package fruit
+package fruits
 
 // Fruit names to use for testing
 const (
